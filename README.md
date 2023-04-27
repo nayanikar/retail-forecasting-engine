@@ -1,11 +1,1 @@
-# walmart-weekly-sales-prediction-using-statiscal-methods
-# walmart-weekly-sales-prediction-using-statiscal-methods
-# walmart-weekly-sales-prediction-using-statiscal-methods
-# walmart-weekly-sales-prediction-using-statiscal-methods
-# walmart-weekly-sales-prediction-using-statiscal-methods
-# walmart-weekly-sales-prediction-using-statiscal-methods
-# walmart-weekly-sales-prediction-using-statiscal-methods
-# walmart-weekly-sales-prediction-using-statiscal-methods
-# walmart-weekly-sales-prediction-using-statiscal-methods
-# walmart-weekly-sales-prediction-using-statiscal-methods
-# walmart-weekly-sales-prediction-using-statiscal-methods
+# Walmart Weekly Sales Prediction Using Statiscal Methods
