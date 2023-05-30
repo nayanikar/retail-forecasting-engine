@@ -8,14 +8,14 @@ This project involves the statistical analysis of Walmart's weekly sales dataset
 
 The data used in this project is the Walmart Weekly Sales dataset, obtained from Kaggle (https://www.kaggle.com/datasets/yasserh/walmart-dataset). The dataset consists of 6435 weekly sales records from 45 stores. Each record contains information on the weekly sales, as well as the following features:
 
->  Store : The store number
->  Date : Week of the sales
->  Weekly_Sales : Sales for the given store
->  Holiday_Flag : If week is a special holiday week
->  Temperature : Temperature on sales day
->  Fuel_Price : Cost of fuel in the region of store
->  CPI : Customer price index
->  Unemployment : Prevailing unemployment rate in percentage
+1.  Store : The store number
+2.  Date : Week of the sales
+3.  Weekly_Sales : Sales for the given store
+4.  Holiday_Flag : If week is a special holiday week
+5.  Temperature : Temperature on sales day
+6.  Fuel_Price : Cost of fuel in the region of store
+7.  CPI : Customer price index
+8.  Unemployment : Prevailing unemployment rate in percentage
 
 
 Before starting the analysis, the data was explored to identify any issues that could affect the accuracy of the analysis. The first step was to check for missing values, and it was found that there were no missing values in the dataset. However, some of the features, such as temperature and fuel price, had a wide range of values. Therefore, these features were standardized to ensure that they had the same scale as the other features.
