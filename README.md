@@ -1,4 +1,4 @@
-# Walmart Weekly Sales Prediction Using Statiscal Methods
+# Retail Forecasting Using Statiscal Methods
 
 ## ABSTRACT
 
